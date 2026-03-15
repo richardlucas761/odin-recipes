@@ -4,15 +4,13 @@ An implementation of <https://www.theodinproject.com/lessons/foundations-recipes
 
 ## TODO
 
-### Iteration 2: recipe page
-
 ### Iteration 3: recipe page content
 
 ### Iteration 4: add more recipes
 
 ## Lessons learned
 
-Lists things I learned during the completion of each stage.
+Lists anything new I learned during the completion of each stage.
 
 ### Iteration 1: initial structure
 
