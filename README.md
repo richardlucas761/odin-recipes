@@ -2,9 +2,13 @@
 
 An implementation of <https://www.theodinproject.com/lessons/foundations-recipes>
 
-## TODO
+## Published on Github Pages
 
-### Iteration 4: add more recipes
+<https://richardlucas761.github.io/odin-recipes/>
+
+## Website validation
+
+<https://validator.w3.org>
 
 ## Lessons learned
 
